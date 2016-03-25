@@ -1,0 +1,32 @@
+name: Cheesecake
+owen: 150 degrees celsius
+serves: 12
+ingredients:
+  botten:
+    - 12 st digistivekex
+    - 75 g smält smör
+  fyllning:
+    - 100 g vitchocklad
+    - 600 g philadelphia ost
+    - 1.75 dl socker
+    - 0.5 dl mjöl
+    - 3 st ägg
+    - 1 dl grädde
+    - 1 msk vaniljsocker
+instructions:
+  botten:
+    - klä in en form med avtagbar ring i aliminiumfolie
+    - smula ner kexen och blanda med smöret
+    - pressa ner i formen
+    - ställ in i kylen tills smeten är klar
+  fyllning:
+    - smält chockladen
+    - blanda ost, socker och mjöl tills fluffigt
+    - blanda i chocklad
+    - knäck i ett ägg och blanda i väl
+    - blanda i vanilj och grädde
+    - häll i smeten i formen och ställ i djup långplåt i ugnen
+    - häll i vatten runtomkring formen och grädda i nedredelen av ugnen tills allt förutom kärnan i mitten är fast
+    - låt stå och efterbaka utanför ugnen tills dess att cheesecaken svalnat
+
+
